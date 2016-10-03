@@ -18,7 +18,7 @@ email: david.buchanswanson@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Rantings of a software engineer, tech enthusiast, nerd and JS evangelist.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://deecewan.github.io" # the base hostname & protocol for your site
+url: "http://localhost:4000" # "https://deecewan.github.io" # the base hostname & protocol for your site
 twitter_username: deecewan
 github_username:  deecewan
 
