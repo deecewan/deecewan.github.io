@@ -8,7 +8,8 @@ I'm a JavaScript developer, working as a software engineer at [Tanda](https://ww
 I started during the Winter Internship (Winternship), and was offered a job towards the end of my 4 week internship.
 
 During my time there, I worked on the [new time clock](https://timeclock.tanda.co), which we've now got released both
-for [Android](android-link) and [iOS](ios-link).  My part of the work was on backend services.  Reliability and
+for [Android](https://play.google.com/store/apps/details?id=co.tanda.timeclock&hl=en) and 
+[iOS](https://itunes.apple.com/au/app/tanda/id904862947).  My part of the work was on backend services. Reliability and
  stability were my main concern.  This was a unique take for me, previously working for 
  [Digital8](https://digital8.com.au), a digital agency (a great bunch of people, too, if you need some solid web devs).
  
